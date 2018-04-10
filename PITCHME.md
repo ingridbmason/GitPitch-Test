@@ -1,6 +1,5 @@
 
 # Flux 
-
 An application architecture for React
 
 ---
